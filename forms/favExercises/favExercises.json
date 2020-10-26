@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "ABfavExercises",
+        "favExercises",
         "Elements",
         "selExercises.json"
       ]
@@ -23,7 +23,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "ABfavExercises",
+        "favExercises",
         "Elements",
         "btnNxtPg.json"
       ]
@@ -32,9 +32,18 @@
       "!type": "External",
       "file": [
         "forms",
-        "ABfavExercises",
+        "favExercises",
         "Elements",
         "btnDone.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "lblExercises.json"
       ]
     }
   ],
@@ -44,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "ABfavExercises",
+  "id": "favExercises",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

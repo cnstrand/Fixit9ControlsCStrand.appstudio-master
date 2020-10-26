@@ -1,11 +1,4 @@
 
-/*
-hmbMenu.onclick=function(s){
-  if (typeof(s) == "object") 
-    return
-  //add a switch here to take the user to the form they chose. 
-  */
-
 hmbMenu.onclick=function(s){ // when just click the control. 's' is
                               // the object returned
     if (typeof(s) == "object") { // do nothing - they just clicked on the control
@@ -31,4 +24,5 @@ hmbMenu.onclick=function(s){ // when just click the control. 's' is
                 break
        }  //switch
    } //else
+}
 }
