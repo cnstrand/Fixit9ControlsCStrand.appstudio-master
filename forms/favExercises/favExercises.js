@@ -1,5 +1,5 @@
 
-var exercises = ["pullups","pushups","situps","jogging","plank","curls"]
+var exercises = ["pullups","pushups","situps", "plank","jogging","curls"]
 var coreExercises = ["situps","plank"]
 
 favExercises.onshow=function(){

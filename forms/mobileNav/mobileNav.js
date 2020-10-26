@@ -20,7 +20,7 @@ hmbMenu.onclick=function(s){ // when just click the control. 's' is
                 break
             case "Exercise Knowledge":
                 // Go to the ABfavExercises form
-                ChangeForm(ABfavExercises)
+                ChangeForm(favExercises)
                 break
        }  //switch
    } //else
